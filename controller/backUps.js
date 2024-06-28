@@ -21,9 +21,10 @@ const almacenarRutina = async(req = request, res = response) => {
 
     
     const totalDocumentos = await Rutina.countDocuments();
+    const corte = totalDocumentos - 7
     const rutinas = await Rutina.find()
-        .skip(Number(totalDocumentos - (totalDocumentos - 7)))
-
+        .skip(Number(corte))
+        .limit(Number(7))
 
     res.json({
 
