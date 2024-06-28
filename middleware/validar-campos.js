@@ -32,9 +32,22 @@ const validarContraseña = (req = request, res = response, next) => {
 
 }
 
+const validarNombreRutina = (req = request, res = response, next) => {
+
+    const nombre = req.header('nombre');
+
+    if( !nombre ){
+        return res.status(401).json({
+            msg: 'No hay nombre en la petición'
+        });
+    }
+
+    next()
+}
 
 
 module.exports = {
     validarCampos,
-    validarContraseña
+    validarContraseña,
+    validarNombreRutina
 }
