@@ -19,9 +19,11 @@ const almacenarRutina = async(req = request, res = response) => {
 
     await rutinaBackUp.save();
 
+    
+    const totalDocumentos = await Rutina.countDocuments();
     const rutinas = await Rutina.find()
-        .sort({ createdAt: -1 })
-        .limit(7)
+        .skip(Number(totalDocumentos - (totalDocumentos - 7)))
+
 
     res.json({
 
