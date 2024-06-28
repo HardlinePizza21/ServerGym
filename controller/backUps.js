@@ -19,7 +19,9 @@ const almacenarRutina = async(req = request, res = response) => {
 
     await rutinaBackUp.save();
 
-    const rutinas = await Rutina.find();
+    const rutinas = await Rutina.find()
+        .sort({ createdAt: -1 })
+        .limit(7)
 
     res.json({
 
