@@ -1,37 +1,37 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.3">
   <diagram name="Página-1" id="6WN5ASvwdyu6KS0rCACC">
-    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DzHAEoYvThSDIISjN1dL-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="532.5" y="140" width="247" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="48" y="90" width="250" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-2" value="Servidor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-2" value="Servidor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="553" y="250" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-3" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/televisor&lt;/div&gt;&lt;div&gt;Televisor que presenta los turnos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-3" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/televisor&lt;/div&gt;&lt;div&gt;Televisor que presenta los turnos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="73" y="350" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-4" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/escritorio1&lt;/div&gt;&lt;div&gt;Ascesora(La niña)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-4" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/escritorio1&lt;/div&gt;&lt;div&gt;Ascesora(La niña)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="73" y="230" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-25" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/turnero&lt;/div&gt;&lt;div&gt;Tablet con el formulario&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-25" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/turnero&lt;/div&gt;&lt;div&gt;Tablet con el formulario&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="73" y="110" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-26" value="Frontend(Navegador)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-26" value="Frontend(Navegador)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="81" y="60" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-27" value="Backend(Servidor )" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-27" value="Backend(Servidor )" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="561" y="60" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-28" value="Cliente genera su turno" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-28" value="Cliente genera su turno" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="302" y="10" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="288" y="150" as="sourcePoint" />
             <mxPoint x="598" y="240" as="targetPoint" />
@@ -40,107 +40,119 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-32" value="&lt;div&gt;Emite un evento&lt;/div&gt;&lt;div&gt;crearTurno();&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DzHAEoYvThSDIISjN1dL-29">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-32" value="&lt;div&gt;Emite un evento&lt;/div&gt;&lt;div&gt;crearTurno();&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DzHAEoYvThSDIISjN1dL-29" vertex="1" connectable="0">
           <mxGeometry x="-0.0983" y="2" relative="1" as="geometry">
             <mxPoint x="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="532" y="290" as="sourcePoint" />
             <mxPoint x="292" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-35" value="&lt;div&gt;El servidor le avisa a todos &lt;br&gt;&lt;/div&gt;&lt;div&gt;los escritorios que hay un turno sin &lt;br&gt;&lt;/div&gt;&lt;div&gt;atender y muestra todo sobre el turno&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DzHAEoYvThSDIISjN1dL-34">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-35" value="&lt;div&gt;El servidor le avisa a todos &lt;br&gt;&lt;/div&gt;&lt;div&gt;los escritorios que hay un turno sin &lt;br&gt;&lt;/div&gt;&lt;div&gt;atender y muestra todo sobre el turno&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DzHAEoYvThSDIISjN1dL-34" vertex="1" connectable="0">
           <mxGeometry x="0.0083" y="1" relative="1" as="geometry">
             <mxPoint x="11" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="610" width="247" height="310" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1374.5" y="150" width="247" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="48" y="560" width="250" height="370" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="100" width="250" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-69" value="Servidor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="553" y="720" width="206" height="100" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-69" value="Servidor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="260" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-70" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/televisor&lt;/div&gt;&lt;div&gt;Televisor que presenta los turnos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="73" y="820" width="206" height="100" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-70" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/televisor&lt;/div&gt;&lt;div&gt;Televisor que presenta los turnos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="915" y="360" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-71" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/escritorio1&lt;/div&gt;&lt;div&gt;Ascesora(La niña)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="73" y="700" width="206" height="100" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-71" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/escritorio1&lt;/div&gt;&lt;div&gt;Ascesora(La niña)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="915" y="240" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-72" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/turnero&lt;/div&gt;&lt;div&gt;Tablet con el formulario&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="73" y="580" width="206" height="100" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-72" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/turnero&lt;/div&gt;&lt;div&gt;Tablet con el formulario&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="915" y="120" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-73" value="Frontend(Navegador)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="81" y="530" width="190" height="30" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-73" value="Frontend(Navegador)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="923" y="70" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-74" value="Backend(Servidor )" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="561" y="530" width="190" height="30" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-74" value="Backend(Servidor )" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1403" y="70" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-75" value="La escritorio decide atender un turno" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="500" width="220" height="30" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-75" value="La escritorio decide atender un turno" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1154.5" y="40" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-80" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.58;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzHAEoYvThSDIISjN1dL-71" target="DzHAEoYvThSDIISjN1dL-69">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-80" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.58;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DzHAEoYvThSDIISjN1dL-71" target="DzHAEoYvThSDIISjN1dL-69" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="413.5" y="790" as="sourcePoint" />
-            <mxPoint x="393.5" y="730" as="targetPoint" />
+            <mxPoint x="1255.5" y="330" as="sourcePoint" />
+            <mxPoint x="1235.5" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-82" value="&lt;div&gt;El escritorio decide atender el turno&lt;/div&gt;&lt;div&gt;y manda la informacion del turno que desea&lt;/div&gt;&lt;div&gt;atender.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DzHAEoYvThSDIISjN1dL-80">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-82" value="&lt;div&gt;El escritorio decide atender el turno&lt;/div&gt;&lt;div&gt;y manda la informacion del turno que desea&lt;/div&gt;&lt;div&gt;atender.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DzHAEoYvThSDIISjN1dL-80" vertex="1" connectable="0">
           <mxGeometry x="-0.0884" y="2" relative="1" as="geometry">
             <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-83" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.539;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzHAEoYvThSDIISjN1dL-69" target="DzHAEoYvThSDIISjN1dL-70">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-83" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.539;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DzHAEoYvThSDIISjN1dL-69" target="DzHAEoYvThSDIISjN1dL-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="880" as="sourcePoint" />
-            <mxPoint x="360" y="900" as="targetPoint" />
+            <mxPoint x="1332" y="420" as="sourcePoint" />
+            <mxPoint x="1202" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-84" value="&lt;div&gt;El servidor manda el turno&amp;nbsp;&lt;/div&gt;&lt;div&gt;que hay que llamar&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DzHAEoYvThSDIISjN1dL-83">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-84" value="&lt;div&gt;El servidor manda el turno&amp;nbsp;&lt;/div&gt;&lt;div&gt;que hay que llamar&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DzHAEoYvThSDIISjN1dL-83" vertex="1" connectable="0">
           <mxGeometry x="0.4404" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="1060" width="247" height="310" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="944.5" y="690" width="247" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="48" y="1010" width="250" height="370" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="640" width="250" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-87" value="Servidor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="553" y="1170" width="206" height="100" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-87" value="Servidor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="965" y="800" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-88" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/televisor&lt;/div&gt;&lt;div&gt;Televisor que presenta los turnos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="73" y="1270" width="206" height="100" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-88" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/televisor&lt;/div&gt;&lt;div&gt;Televisor que presenta los turnos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="485" y="900" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-89" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/escritorio1&lt;/div&gt;&lt;div&gt;Ascesora(La niña)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="73" y="1150" width="206" height="100" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-89" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/escritorio1&lt;/div&gt;&lt;div&gt;Ascesora(La niña)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="485" y="780" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-90" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/turnero&lt;/div&gt;&lt;div&gt;Tablet con el formulario&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="73" y="1030" width="206" height="100" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-90" value="&lt;div&gt;https://&amp;lt;dominio&amp;gt;/turnero&lt;/div&gt;&lt;div&gt;Tablet con el formulario&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="485" y="660" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-91" value="Frontend(Navegador)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="81" y="980" width="190" height="30" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-91" value="Frontend(Navegador)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="493" y="610" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-92" value="Backend(Servidor )" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="561" y="980" width="190" height="30" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-92" value="Backend(Servidor )" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="973" y="610" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-93" value="El turno es atendido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="950" width="220" height="30" as="geometry" />
+        <mxCell id="DzHAEoYvThSDIISjN1dL-93" value="El turno es atendido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="724.5" y="580" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-98" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DzHAEoYvThSDIISjN1dL-89" target="DzHAEoYvThSDIISjN1dL-87">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-98" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DzHAEoYvThSDIISjN1dL-89" target="DzHAEoYvThSDIISjN1dL-87" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="1120" as="sourcePoint" />
-            <mxPoint x="500" y="1180" as="targetPoint" />
+            <mxPoint x="772" y="750" as="sourcePoint" />
+            <mxPoint x="912" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DzHAEoYvThSDIISjN1dL-99" value="&lt;div&gt;Se le indica al servidor &lt;br&gt;&lt;/div&gt;&lt;div&gt;que se atendio el turno&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DzHAEoYvThSDIISjN1dL-98">
+        <mxCell id="DzHAEoYvThSDIISjN1dL-99" value="&lt;div&gt;Se le indica al servidor &lt;br&gt;&lt;/div&gt;&lt;div&gt;que se atendio el turno&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DzHAEoYvThSDIISjN1dL-98" vertex="1" connectable="0">
           <mxGeometry x="-0.0793" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3SlnXgQE8s0BpymnU3mV-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="300" as="sourcePoint" />
+            <mxPoint x="860" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3SlnXgQE8s0BpymnU3mV-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="520" as="sourcePoint" />
+            <mxPoint x="910" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
